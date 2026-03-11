@@ -5,5 +5,5 @@ I’m [**Jasen**](https://www.linkedin.com/in/jasen-bergamini/), a Computer Scie
 ---
 
 **Projects I've worked on:**
-- [Home Network](https://github.com/jasenbergamini/homenetwork) -  A home network I built using the Unifi ecosystem.
+- [Home Network](https://github.com/jasenbergamini/homenetwork) - I built a home network using the Unifi ecosystem.
 - [SIEM](https://github.com/jasenbergamini/AzureSIEM) -  I built an SOC environment using Microsoft Azure and Microsoft Sentinel.
