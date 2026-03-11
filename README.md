@@ -1,4 +1,4 @@
-# Hey there! 
+# Hi, i'm Jasen
 
-I'm Jasen, a Computer Science (Cybersecurity) student at HCCC.
+I'm studying Computer Science with a focus in Cybersecurity at HCCC.
 
